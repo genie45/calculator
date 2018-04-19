@@ -13,13 +13,30 @@ div#cloneCalc{
     font-family: Roboto;
     margin-left: 25%;
     margin-right: 25%;
-    max-width: 400px;
+    max-width: 500px;
 }
 
 div#cloneCost{
     width: 100%;
+    text-align: center;
+}
+
+div#CloneCalcDinoSelector{
+    margin-bottom: 5%;
+    display: -webkit-inline-box;
+    text-align: center;
 }
 
 div#CloneCalcHalf{
-    width: 50%;
+    width: 55%;
+    display: table-cell;
+    text-align: center;
+}
+
+form#DinoList{
+    margin-right: 10px;
+}
+
+#CloneElementCostPerLevel, #CloneBaseElementCost, #CloneTimePerElementShard, #BabyMatureSpeedMultiplier, #CloneCostResult, #CloneTimeResult{
+    font-family: IBM Plex Mono;
 }
