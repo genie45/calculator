@@ -1,42 +1,48 @@
-<div id="clone_calc">
-    <div id="cloneCost">
-        <h2>Cloning Calculator</h2>
-        <div id="CloneCalcDinoSelector">
-            <form>
-                <input list="CloneDinoDatalist">
-                <datalist id="CloneDinoDatalist">
-                  <option value="Rex">
-                  <option value="Dodo">
-                  <option value="Sabertooth">
-                  <option value="Quetzal">
-                  <option value="Parasaur">
-                </datalist>
-            </form>
-            Dino Level: <input type="number" id="CharacterLevel">
-        </div>
-        <div id="CloneCalcHalf">
-            <h3>Cloning Costs</h3>
-            <div id="CLoneCalcValue">
-                CloneElementCostPerLevel: <br/>
-                <input type="number" id="CloneElementCostPerLevel">
+<head>
+    <link rel="stylesheet" href="clone_calc.css">
+    <script src="clone_calc.js"></script>
+</head>
+<body>
+    <div id="cloneCalc">
+        <div id="cloneCost">
+            <h2>Cloning Calculator</h2>
+            <div id="CloneCalcDinoSelector">
+                <form>
+                    <input list="CloneDinoDatalist">
+                    <datalist id="CloneDinoDatalist">
+                    <option value="Rex">
+                    <option value="Dodo">
+                    <option value="Sabertooth">
+                    <option value="Quetzal">
+                    <option value="Parasaur">
+                    </datalist>
+                </form>
+                Dino Level: <input type="number" id="CharacterLevel">
             </div>
-            <div id="CLoneCalcValue">
-                CloneBaseElementCost: <br/>
-                <input type="number" id="CloneBaseElementCost">
+            <div id="CloneCalcHalf">
+                <h3>Cloning Costs</h3>
+                <div id="CLoneCalcValue">
+                    CloneElementCostPerLevel: <br/>
+                    <input type="number" id="CloneElementCostPerLevel">
+                </div>
+                <div id="CLoneCalcValue">
+                    CloneBaseElementCost: <br/>
+                    <input type="number" id="CloneBaseElementCost">
+                </div>
+                <p id="CloneCostResult"></p>
             </div>
-            <p id="CloneCostResult"></p>
-        </div>
-        <div id="CloneCalcHalf">
-            <h3>Cloning Time</h3>
-            <div id="CLoneCalcValue">
-                CloneTimePerElementShard: <br/>
-                <input type="number" id="CloneTimePerElementShard">
+            <div id="CloneCalcHalf">
+                <h3>Cloning Time</h3>
+                <div id="CLoneCalcValue">
+                    CloneTimePerElementShard: <br/>
+                    <input type="number" id="CloneTimePerElementShard">
+                </div>
+                <div id="CLoneCalcValue">
+                    BabyMature SpeedMultiplier: <br/>
+                    <input type="number" id="BabyMatureSpeedMultiplier">
+                </div>
+                <p id="CloneTimeResult"></p>
             </div>
-            <div id="CLoneCalcValue">
-                BabyMature SpeedMultiplier: <br/>
-                <input type="number" id="BabyMatureSpeedMultiplier">
-            </div>
-            <p id="CloneTimeResult"></p>
         </div>
     </div>
-</div>
+</body>
