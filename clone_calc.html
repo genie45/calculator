@@ -15,35 +15,37 @@
                     <option value="Sabertooth">
                     <option value="Quetzal">
                     <option value="Parasaur">
-                    </datalist> -->
-                </form>
-                Dino Level: <input type="number" id="CharacterLevel" required>
-                <button onclick="StartCalculate()">Calculate</button>
-            </div>
-            <div id="CloneCalcHalf">
-                <h3>Cloning Costs</h3>
-                <div id="CloneCalcValue">
-                    CloneElementCostPerLevel: <br/>
-                    <input type="number" id="CloneElementCostPerLevel" required>
+                    </datalist>
+                </form> -->
+            <form>
+                    Dino Level: <input type="number" id="CharacterLevel" required>
+                    <button onclick="StartCalculate()">Calculate</button>
                 </div>
-                <div id="CloneCalcValue">
-                    CloneBaseElementCost: <br/>
-                    <input type="number" id="CloneBaseElementCost" required>
+                <div id="CloneCalcHalf">
+                    <h3>Cloning Costs</h3>
+                    <div id="CloneCalcValue">
+                        CloneElementCostPerLevel: <br/>
+                        <input type="number" id="CloneElementCostPerLevel" required>
+                    </div>
+                    <div id="CloneCalcValue">
+                        CloneBaseElementCost: <br/>
+                        <input type="number" id="CloneBaseElementCost" required>
+                    </div>
+                    <p id="CloneCostResult"></p>
                 </div>
-                <p id="CloneCostResult"></p>
-            </div>
-            <div id="CloneCalcHalf">
-                <h3>Cloning Time</h3>
-                <div id="CloneCalcValue">
-                    CloneTimePerElementShard: <br/>
-                    <input type="number" id="CloneTimePerElementShard" required>
+                <div id="CloneCalcHalf">
+                    <h3>Cloning Time</h3>
+                    <div id="CloneCalcValue">
+                        CloneTimePerElementShard: <br/>
+                        <input type="number" id="CloneTimePerElementShard" required>
+                    </div>
+                    <div id="CloneCalcValue">
+                        BabyMature SpeedMultiplier: <br/>
+                        <input type="number" id="BabyMatureSpeedMultiplier" required>
+                    </div>
+                    <p id="CloneTimeResult"></p>
                 </div>
-                <div id="CloneCalcValue">
-                    BabyMature SpeedMultiplier: <br/>
-                    <input type="number" id="BabyMatureSpeedMultiplier" required>
-                </div>
-                <p id="CloneTimeResult"></p>
-            </div>
+            </form>
         </div>
     </div>
 </body>
