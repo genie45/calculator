@@ -7,7 +7,7 @@ var CharacterLevel = 0;
 const CloneElementCostPerLevelGlobalMultiplier = 5000; //fixed value from Cloning Chamber
 const CloneBaseElementCostGlobalMultiplier = 2500; //fixed value from Cloning Chamber
 const CloningTimePerElementShard = 7; //fixed value from Cloning Chamber
-if (wildStatCalcDiv = document.getElementById('')) {
+if (wildStatCalcDiv = document.getElementById('CharacterLevel'||'BabyMatureSpeedMultiplier')) {
     var CloningValuesDinos = {
         "Achatina": {
             "CloneElementCostPerLevel": 0.01,
@@ -434,9 +434,9 @@ if (wildStatCalcDiv = document.getElementById('')) {
 };
 
 function changeCreature(creature) {
-    if (CloningValuesDinos[creature] == null)
-        creature = Object.keys(CloningValuesDinos)[0];
-
+    if (CloningValuesDinos[creature] == null) {
+        creature = Object.keys(CloningValuesDinos);
+    }
     stats = CloningValuesDinos[creature];
     var tableRows = '';
     tableRows += '<tr><td colspan="2">BabyMatureSpeedMultiplier</td><td colspan="2"><input type="number" min"0.1" max="100" step= "0.1" value="1.0" id="BabyMatureSpeedMultiplier" onchange="startCalculate()"></td></tr>';
@@ -469,6 +469,4 @@ function startCalculate() {
     var time1 = 0;
     time1 = CloningTimePerElementShard / document.getElementById('BabyMatureSpeedMultiplier' + 'input').value;
     CloneTimeResult = Math.round(CloneCostResult * time1); console.log('CloneTimeResult: ' + CloneTimeResult);
-
-    changeCreature();
 }
