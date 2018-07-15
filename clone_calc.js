@@ -9,10 +9,8 @@ const CloneBaseElementCostGlobalMultiplier = 2500; //fixed value from Cloning Ch
 const CloningTimePerElementShard = 7; //fixed value from Cloning Chamber
 
 
-function changeCreature(creature) {
-    if (CloningValuesDinos[creature] == null) {
-        creature = Object.keys(CloningValuesDinos);
-    }
+function createTable(jsonObj){
+    var  
     stats = CloningValuesDinos[creature];
     var tableRows = '';
     tableRows += '<tr><td colspan="2">BabyMatureSpeedMultiplier</td><td colspan="2"><input type="number" min"0.1" max="100" step= "0.1" value="1.0" id="BabyMatureSpeedMultiplier" onchange="startCalculate()"></td></tr>';
@@ -45,4 +43,16 @@ function startCalculate() {
     var time1 = 0;
     time1 = CloningTimePerElementShard / document.getElementById('BabyMatureSpeedMultiplier' + 'input').value;
     CloneTimeResult = Math.round(CloneCostResult * time1); console.log('CloneTimeResult: ' + CloneTimeResult);
+}
+
+var requestURL = 'https://raw.githubusercontent.com/genie45/calculator/master/data.json';
+var request = new XMLHttpRequest();
+request.open('GET', requestURL);
+request.responseType = 'json';
+request.send();
+
+request.onload = function() {
+    var creature = request.response;
+    createTable(creature);
+
 }

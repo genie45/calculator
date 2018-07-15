@@ -1,7 +1,7 @@
 /*Font*/
 @font-face {
     font-family: 'Roboto', sans-serif;
-    src: url('https://fonts.googleapis.com/css?family=IBM+Plex+Mono|Roboto');
+    src: url('https://fonts.googleapis.com/css?family=Roboto');
   }
 
 div#cloneCalc{
