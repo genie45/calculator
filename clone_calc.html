@@ -1,12 +1,43 @@
+<!doctype html>
+<html>
 <head>
+    <title>ARK Clone Calculator</title>
     <link rel="stylesheet" href="clone_calc.css">
-    <script src="clone_calc.js"></script>
 </head>
 <body>
-    <div class="tablearea"> 
+    <select id="creature-select"></select>
 
-    </div>
-    <script>
-        var tablearea = document.querySelector('div.tablearea');
-    </script>
+    <table class="wikitable">
+        <tr>
+            <td>BabyMatureSpeedMultiplier</td>
+            <td>
+                <input type="number" min="0.1" max="100" step="0.1" value="1.0" id="baby-mature-speed-multiplier">
+            </td>
+        </tr>
+        <tr>
+            <td>Level</td>
+            <td>
+                <input type="number" min="1" max="500" step="1" value="224" id="character-level">
+            </td>
+        </tr>
+        <tr>
+            <td>CloneElementCostPerLevel</td>
+            <td id="cost-per-level"></td>
+        </tr>
+        <tr>
+            <td>CloneBaseElementCost</td>
+            <td id="base-cost"></td>
+        </tr>
+        <tr>
+            <td>Clone Cost</td>
+            <td><span id="clone-cost"></span> Element Shards</td>
+        </tr>
+        <tr>
+            <td>Clone Time</td>
+            <td><span id="clone-time"></span> seconds</td>
+        </tr>
+    </table>
+
+    <script src="clone_calc.js"></script>
 </body>
+</html>

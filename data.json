@@ -1,529 +1,525 @@
+[{
+	"name": "Achatina",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.69
+},
 {
-    "creature": [
-        {
-        "name" : "Achatina",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.69
-        },
-        {
-        "name" : "Allosaurus",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.53
-        },
-        {
-        "name" : "Anglerfish",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.17
-        },
-        {
-        "name" : "Ankylosaurus",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.93
-        },
-        {
-        "name" : "Araneo",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.04
-        },
-        {
-        "name" : "Archaeopteryx",
-        "CloneElementCostPerLevel": 0.007,
-        "CloneBaseElementCost": 0.13
-        },
-        {
-        "name" : "Argentavis",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.68
-        },
-        {
-        "name" : "Arthropluera",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.2
-        },
-        { 
-        "name" : "Baryonyx",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.52
-        },
-        {
-        "name" : "Basilosaurus",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.75
-        },
-        {
-        "name" : "Beelzebufo",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.57
-        },
-        {
-        "name" : "Brontosaurus",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.79
-        },
-        {
-        "name" : "Carbonemys",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.64
-        },
-        {
-        "name" : "Carnotaurus",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.26
-        },
-        {
-        "name" : "Castoroides",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.84
-        },
-        {
-        "name" : "Chalicotherium",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.27
-        },
-        {
-        "name" : "Compy",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.07
-        },
-        {
-        "name" : "Daeodon",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.67
-        },
-        {
-        "name" : "Dilophosaur",
-        "CloneElementCostPerLevel": 0.005,
-        "CloneBaseElementCost": 0.12
-        },
-        {
-        "name" : "Dimetrodon",
-        "CloneElementCostPerLevel": 0.005,
-        "CloneBaseElementCost": 0.08
-        },
-        {
-        "name" : "Dimorphodon",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.28
-        },
-        {
-        "name" : "Diplocaulus",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.4
-        },
-        {
-        "name" : "Diplodocus",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.23
-        },
-        {
-        "name" : "Direbear",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.66
-        },
-        {
-        "name" : "Direwolf",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.58
-        },
-        {
-        "name" : "Dodo",
-        "CloneElementCostPerLevel": 0.005,
-        "CloneBaseElementCost": 0.01
-        },
-        {
-        "name" : "Doedicurus",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.83
-        },
-        {
-        "name" : "Dung Beetle",
-        "CloneElementCostPerLevel": 0.005,
-        "CloneBaseElementCost": 0.9
-        },
-        {
-        "name" : "Dunkleosteus",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.43
-        },
-        {
-        "name" : "Electrophorus",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.13
-        },
-        {
-        "name" : "Equus",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.44
-        },
-        {
-        "name" : "Gallimimus",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.35
-        },
-        {
-        "name" : "Giganotosaurus",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.99
-        },
-        {
-        "name" : "Gigantopithecus",
-        "CloneElementCostPerLevel": 0,
-        "CloneBaseElementCost": 0
-        },
-        {
-        "name" : "Griffin",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.68
-        },
-        {
-        "name" : "Hesperornis",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.25
-        },
-        {
-        "name" : "Hyaenodon ",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.035
-        },
-        {
-        "name" : "Ichthyornis",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.3
-        },
-        {
-        "name" : "Ichthy",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.66
-        },
-        {
-        "name" : "Iguanodon",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.32
-        },
-        {
-        "name" : "Kairuku",
-        "CloneElementCostPerLevel": 0.005,
-        "CloneBaseElementCost": 0.41
-        },
-        {
-        "name" : "Kaprosuchus",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.4
-        },
-        {
-        "name" : "Kentrosaurus",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.37
-        },
-        {
-        "name" : "Lystrosaurus",
-        "CloneElementCostPerLevel": 0.005,
-        "CloneBaseElementCost": 0.33
-        },
-        {
-        "name" : "Mammoth",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.62
-        },
-        {
-        "name" : "Manta",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.21
-        },
-        {
-        "name" : "Megalania",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.85
-        },
-        {
-        "name" : "Megaloceros",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.36
-        },
-        {
-        "name" : "Megalodon",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.37
-        },
-        {
-         "name" : "Megalosaurus",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.34
-        },
-        {
-        "name" : "Megatherium",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.67
-        },
-        {
-        "name" : "Mesopithecus",
-        "CloneElementCostPerLevel": 0.005,
-        "CloneBaseElementCost": 0.23
-        },
-        {
-        "name" : "Microraptor",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.34
-        },
-        {
-       "name" : "Mosasaurus",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.88
-        },
-        {
-        "name" : "Moschops",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.5
-        },
-        {
-         "name" : "Onyc",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.02
-        },
-        {
-        "name" : "Otter",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.84
-        },
-        {
-        "name" : "Oviraptor",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.6
-        },
-        {
-        "name" : "Ovis",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.79
-        },
-        {
-        "name" : "Pachycephalosaurus",
-        "CloneElementCostPerLevel": 0.008,
-        "CloneBaseElementCost": 0.12
-        },
-        {
-        "name" : "Pachyrhinosaurus",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.2
-        },
-        {
-        "name" : "Paracer",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.66
-        },
-        {
-        "name" : "Parasaur",
-        "CloneElementCostPerLevel": 0.007,
-        "CloneBaseElementCost": 0.14
-        },
-        {
-        "name" : "Pegomastax",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.28
-        },
-        {
-        "name" : "Pelagornis",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.43
-        },
-        {
-        "name" : "Phiomia",
-        "CloneElementCostPerLevel": 0.008,
-        "CloneBaseElementCost": 0.47
-        },
-        {
-        "name" : "Plesiosaur",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.42
-        },
-        {
-        "name" : "Procoptodon",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.31
-        },
-        {
-        "name" : "Pteranodon",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.79
-        },
-        {
-        "name" : "Pulmonoscorpius",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.32
-        },
-        {
-        "name" : "Purlovia",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.32
-        },
-        {
-        "name" : "Quetzal",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.98
-        },
-        {
-        "name" : "Raptor",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.23
-        },
-        {
-        "name" : "Rex",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.87
-        },
-        {
-        "name" : "Sabertooth",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.48
-        },
-        {
-        "name" : "Sarco",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.22
-        },
-        {
-        "name" : "Spinosaur",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.67
-        },
-        {
-        "name" : "Stegosaurus",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.29
-        },
-        {
-        "name" : "Tapejara",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.67
-        },
-        {
-        "name" : "Terror Bird",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.36
-        },
-        {
-        "name" : "Therizinosaur",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.94
-        },
-        {
-        "name" : "Thylacoleo",
-        "CloneElementCostPerLevel": 0,
-        "CloneBaseElementCost": 0
-        },
-        {
-        "name" : "Triceratops",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.23
-        },
-        {
-        "name" : "Troodon",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.32
-        },
-        {
-        "name" : "Tusoteuthis",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.87
-        },
-        {
-        "name" : "Unicorn",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.44
-        },
-        {
-        "name" : "Woolly Rhino",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.39
-        },
-        {
-        "name" : "Yutyrannus",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.94
-        },
-        {
-        "name" : "Fire Wyvern",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.82
-        },
-        {
-        "name" : "Jerboa",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.51
-        },
-        {
-        "name" : "Lightning Wyvern",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.82
-        },
-        {
-        "name" : "Lymantria",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.15
-        },
-        {
-        "name" : "Mantis",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.79
-        },
-        {
-        "name" : "Morellatops",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.35
-        },
-        {
-        "name" : "Phoenix",
-        "CloneElementCostPerLevel": 0.04,
-        "CloneBaseElementCost": 0.82
-        },
-        {
-        "name" : "Poison Wyvern",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.82
-        },
-        {
-        "name" : "Rock Elemental",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.88
-        },
-        {
-        "name" : "Thorny Dragon",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.48
-        },
-        {
-        "name" : "Vulture",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.32
-        },
-        {
-        "name" : "Basilisk",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.78
-        },
-        {
-        "name" : "Karkinos",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.5
-        },
-        {
-        "name" : "Ravager",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.25
-        },
-        {
-        "name" : "Reaper",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.93
-        },
-        {
-        "name" : "Rock Drake",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.82
-        },
-        {
-        "name" : "Roll Rat",
-        "CloneElementCostPerLevel": 0.01,
-        "CloneBaseElementCost": 0.45
-        }
-    ]
-}
+	"name": "Allosaurus",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.53
+},
+{
+	"name": "Anglerfish",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.17
+},
+{
+	"name": "Ankylosaurus",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.93
+},
+{
+	"name": "Araneo",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.04
+},
+{
+	"name": "Archaeopteryx",
+	"CloneElementCostPerLevel": 0.007,
+	"CloneBaseElementCost": 0.13
+},
+{
+	"name": "Argentavis",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.68
+},
+{
+	"name": "Arthropluera",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.2
+},
+{
+	"name": "Baryonyx",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.52
+},
+{
+	"name": "Basilosaurus",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.75
+},
+{
+	"name": "Beelzebufo",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.57
+},
+{
+	"name": "Brontosaurus",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.79
+},
+{
+	"name": "Carbonemys",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.64
+},
+{
+	"name": "Carnotaurus",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.26
+},
+{
+	"name": "Castoroides",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.84
+},
+{
+	"name": "Chalicotherium",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.27
+},
+{
+	"name": "Compy",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.07
+},
+{
+	"name": "Daeodon",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.67
+},
+{
+	"name": "Dilophosaur",
+	"CloneElementCostPerLevel": 0.005,
+	"CloneBaseElementCost": 0.12
+},
+{
+	"name": "Dimetrodon",
+	"CloneElementCostPerLevel": 0.005,
+	"CloneBaseElementCost": 0.08
+},
+{
+	"name": "Dimorphodon",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.28
+},
+{
+	"name": "Diplocaulus",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.4
+},
+{
+	"name": "Diplodocus",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.23
+},
+{
+	"name": "Direbear",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.66
+},
+{
+	"name": "Direwolf",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.58
+},
+{
+	"name": "Dodo",
+	"CloneElementCostPerLevel": 0.005,
+	"CloneBaseElementCost": 0.01
+},
+{
+	"name": "Doedicurus",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.83
+},
+{
+	"name": "Dung Beetle",
+	"CloneElementCostPerLevel": 0.005,
+	"CloneBaseElementCost": 0.9
+},
+{
+	"name": "Dunkleosteus",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.43
+},
+{
+	"name": "Electrophorus",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.13
+},
+{
+	"name": "Equus",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.44
+},
+{
+	"name": "Gallimimus",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.35
+},
+{
+	"name": "Giganotosaurus",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.99
+},
+{
+	"name": "Gigantopithecus",
+	"CloneElementCostPerLevel": 0,
+	"CloneBaseElementCost": 0
+},
+{
+	"name": "Griffin",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.68
+},
+{
+	"name": "Hesperornis",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.25
+},
+{
+	"name": "Hyaenodon ",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.035
+},
+{
+	"name": "Ichthyornis",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.3
+},
+{
+	"name": "Ichthy",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.66
+},
+{
+	"name": "Iguanodon",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.32
+},
+{
+	"name": "Kairuku",
+	"CloneElementCostPerLevel": 0.005,
+	"CloneBaseElementCost": 0.41
+},
+{
+	"name": "Kaprosuchus",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.4
+},
+{
+	"name": "Kentrosaurus",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.37
+},
+{
+	"name": "Lystrosaurus",
+	"CloneElementCostPerLevel": 0.005,
+	"CloneBaseElementCost": 0.33
+},
+{
+	"name": "Mammoth",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.62
+},
+{
+	"name": "Manta",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.21
+},
+{
+	"name": "Megalania",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.85
+},
+{
+	"name": "Megaloceros",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.36
+},
+{
+	"name": "Megalodon",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.37
+},
+{
+	"name": "Megalosaurus",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.34
+},
+{
+	"name": "Megatherium",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.67
+},
+{
+	"name": "Mesopithecus",
+	"CloneElementCostPerLevel": 0.005,
+	"CloneBaseElementCost": 0.23
+},
+{
+	"name": "Microraptor",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.34
+},
+{
+	"name": "Mosasaurus",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.88
+},
+{
+	"name": "Moschops",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.5
+},
+{
+	"name": "Onyc",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.02
+},
+{
+	"name": "Otter",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.84
+},
+{
+	"name": "Oviraptor",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.6
+},
+{
+	"name": "Ovis",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.79
+},
+{
+	"name": "Pachycephalosaurus",
+	"CloneElementCostPerLevel": 0.008,
+	"CloneBaseElementCost": 0.12
+},
+{
+	"name": "Pachyrhinosaurus",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.2
+},
+{
+	"name": "Paracer",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.66
+},
+{
+	"name": "Parasaur",
+	"CloneElementCostPerLevel": 0.007,
+	"CloneBaseElementCost": 0.14
+},
+{
+	"name": "Pegomastax",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.28
+},
+{
+	"name": "Pelagornis",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.43
+},
+{
+	"name": "Phiomia",
+	"CloneElementCostPerLevel": 0.008,
+	"CloneBaseElementCost": 0.47
+},
+{
+	"name": "Plesiosaur",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.42
+},
+{
+	"name": "Procoptodon",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.31
+},
+{
+	"name": "Pteranodon",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.79
+},
+{
+	"name": "Pulmonoscorpius",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.32
+},
+{
+	"name": "Purlovia",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.32
+},
+{
+	"name": "Quetzal",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.98
+},
+{
+	"name": "Raptor",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.23
+},
+{
+	"name": "Rex",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.87
+},
+{
+	"name": "Sabertooth",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.48
+},
+{
+	"name": "Sarco",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.22
+},
+{
+	"name": "Spinosaur",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.67
+},
+{
+	"name": "Stegosaurus",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.29
+},
+{
+	"name": "Tapejara",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.67
+},
+{
+	"name": "Terror Bird",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.36
+},
+{
+	"name": "Therizinosaur",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.94
+},
+{
+	"name": "Thylacoleo",
+	"CloneElementCostPerLevel": 0,
+	"CloneBaseElementCost": 0
+},
+{
+	"name": "Triceratops",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.23
+},
+{
+	"name": "Troodon",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.32
+},
+{
+	"name": "Tusoteuthis",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.87
+},
+{
+	"name": "Unicorn",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.44
+},
+{
+	"name": "Woolly Rhino",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.39
+},
+{
+	"name": "Yutyrannus",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.94
+},
+{
+	"name": "Fire Wyvern",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.82
+},
+{
+	"name": "Jerboa",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.51
+},
+{
+	"name": "Lightning Wyvern",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.82
+},
+{
+	"name": "Lymantria",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.15
+},
+{
+	"name": "Mantis",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.79
+},
+{
+	"name": "Morellatops",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.35
+},
+{
+	"name": "Phoenix",
+	"CloneElementCostPerLevel": 0.04,
+	"CloneBaseElementCost": 0.82
+},
+{
+	"name": "Poison Wyvern",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.82
+},
+{
+	"name": "Rock Elemental",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.88
+},
+{
+	"name": "Thorny Dragon",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.48
+},
+{
+	"name": "Vulture",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.32
+},
+{
+	"name": "Basilisk",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.78
+},
+{
+	"name": "Karkinos",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.5
+},
+{
+	"name": "Ravager",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.25
+},
+{
+	"name": "Reaper",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.93
+},
+{
+	"name": "Rock Drake",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.82
+},
+{
+	"name": "Roll Rat",
+	"CloneElementCostPerLevel": 0.01,
+	"CloneBaseElementCost": 0.45
+}]
